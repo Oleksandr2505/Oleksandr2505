@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oleksandr
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning C++/C#
+- 🌱 I’m currently learn C++/C#
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me a new goals
 
